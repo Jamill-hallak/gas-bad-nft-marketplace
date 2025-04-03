@@ -64,7 +64,7 @@ We will be deploying `GasBadNftMarketplace.sol` to the Ethereum mainnet, but are
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/12-gas-bad-nft-marketplace-audit
+git clone https://github.com/Jamill-hallak/gas-bad-nft-marketplace.git
 cd 12-gas-bad-nft-marketplace-audit
 make
 ```
