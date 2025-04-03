@@ -127,14 +127,6 @@ and for coverage based testing:
 forge coverage --report debug
 ```
 
-# Audit Scope Details
-
-- Commit Hash: 
-- In Scope:
-
-```
-
-```
 
 ## Compatibilities
 
