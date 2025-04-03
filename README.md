@@ -12,11 +12,22 @@ To do this, we are writing 2 types of smart contracts:
 1. Reference contracts in solidity 
 2. Optimized contracts in solidity / assembly 
 
-We will be deploying `GasBadNftMarketplace.sol` to the Ethereum mainnet, but are using `NftMarketplace.sol` as a reference point. 
-
 <!-- <p align="center">
 <img src="./images/math-master.png" width="400" alt="gas bad nft marketplace">
 <br/> -->
+
+
+🔍 Inspired by Cyfrin’s Updraft Formal Verification Course
+This project builds on concepts learned from Cyfrin’s advanced Updraft course, including:
+
+-Formal verification using Certora
+
+-Writing invariants, ghost variables, and opcode hooks
+
+-Validating optimized logic with mathematical rigor
+
+The goal is to demonstrate how low-level optimization and formal verification can coexist in a real-world smart contract system.
+
 
 # Gas Bad NFT Marketplace
 
